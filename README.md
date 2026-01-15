@@ -149,3 +149,21 @@ Demonstration
 
 The application is tested by sending POST, GET, PUT, and DELETE requests using Postman, and the results are verified directly in the database.
 
+<img width="1440" height="900" alt="post" src="https://github.com/user-attachments/assets/16ac4232-7e50-4ae1-9979-bba33f2ad3e1" />
+
+<img width="1440" height="900" alt="get" src="https://github.com/user-attachments/assets/fcb71d35-b5f8-49e0-9127-3eb46f3490b9" />
+
+<img width="1440" height="900" alt="getC" src="https://github.com/user-attachments/assets/b30a52b0-0ce4-4685-84e7-5f1a8530faaf" />
+
+<img width="1440" height="900" alt="put" src="https://github.com/user-attachments/assets/ede200d4-22c7-457d-b642-b9bab7aed4ee" />
+
+<img width="1440" height="900" alt="putC" src="https://github.com/user-attachments/assets/bfd92794-14f1-4acf-86b9-5722ab72a277" />
+
+<img width="1440" height="900" alt="delete" src="https://github.com/user-attachments/assets/7c2ce8f0-cc10-41b2-a03b-992c69dc1cdb" />
+
+<img width="1440" height="900" alt="deleteC" src="https://github.com/user-attachments/assets/3bf8dffd-99da-4b65-a3a6-85eed8393f8a" />
+
+
+
+
+
